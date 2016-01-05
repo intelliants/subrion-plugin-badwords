@@ -4,9 +4,9 @@
 	<summary>Bad Words filter for packages items and members fields like text and textarea.</summary>
 	<author>Intelliants LLC</author>
 	<contributor>Intelliants LLC</contributor>
-	<version>3.2.0</version>
-	<date>2014-11-19</date>
-	<compatibility>3.2</compatibility>
+	<version>4.0.0</version>
+	<date>2016-01-05</date>
+	<compatibility>4.0</compatibility>
 
 	<hooks>
 		<hook name="phpParsePostAfterCheckField" filename="plugins/badwords/includes/hook.check-field.php"><![CDATA[]]></hook>
